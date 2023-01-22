@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live](https://huddlle-landing-page.netlify.app/)
+- Live Site URL: [live](https://clipboard-landing-page-ma.netlify.app/)
 
 ## My process
 
